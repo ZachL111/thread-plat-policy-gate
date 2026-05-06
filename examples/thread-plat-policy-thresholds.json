@@ -1,0 +1,17 @@
+{
+  "repo": "thread-plat-policy-gate",
+  "thresholds": {
+    "signal": 4,
+    "slack": 2,
+    "confidence": 2,
+    "drag": 3,
+    "ship": 175,
+    "watch": 98
+  },
+  "terms": [
+    "rollout width",
+    "quota pressure",
+    "route drift",
+    "secret scope"
+  ]
+}
